@@ -9,3 +9,22 @@ The app has two modes:
 
 
 The mode is chosen based on the time.
+
+### Instructions
+
+Install the required packages using `npm`.
+
+```
+npm install
+```
+
+Open `index.html` and your clock should be running!
+
+Alternatively,
+
+```
+npm start
+```
+
+simultaneously starts a `lite-server` that serves `index.html` and watches for
+any file changes to reload the webpage.
