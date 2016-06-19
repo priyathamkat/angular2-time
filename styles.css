@@ -12,6 +12,15 @@ div {
     height: 100%;
 }
 
+div.loading {
+    text-align: center;
+    padding-top: 20%;
+}
+
+.ion.ion-loading-c {
+    font-size: 48px;
+}
+
 body {
     margin: 0px;
 }
